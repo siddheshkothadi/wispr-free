@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Test/coverage caches
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Local config/secrets
+.env
+.env.*
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: audio artifacts (if you add recording/export later)
+*.wav
+*.mp3
