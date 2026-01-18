@@ -1,6 +1,6 @@
 # Wispr (Local Voice Typing)
 
-A free, private, and local voice dictation tool inspired by **Wispr Flow**, vibe coded entirely using the **Gemini CLI**.
+A free, private, and local voice dictation tool inspired by **Wispr Flow**, built entirely using the **Gemini CLI**.
 
 ## What is it?
 
@@ -13,6 +13,10 @@ Wispr is a lightweight background application for Windows that allows you to typ
 *   **100% Local & Private:** Uses OpenAI's **Whisper** model running locally on your CPU/GPU. No API keys, no cloud costs.
 *   **Modern UI:** Features a sleek, minimal "floating pill" interface with reactive wave animations.
 *   **High Accuracy:** Powered by the `faster-whisper` library for industry-leading speech recognition.
+*   
+## TODO
+
+* Make it a windows app with customizable model size.
 
 ## How to Run
 
